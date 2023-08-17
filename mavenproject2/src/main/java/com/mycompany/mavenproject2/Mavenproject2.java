@@ -13,6 +13,8 @@ import java.util.Scanner;
 public class Mavenproject2 {
 
     public static void main(String[] args) {
+        
+        System.out.println("CALCULADORA");
         Scanner marko = new Scanner(System.in);
         System.out.println("ingrese primer numero");
         int numero1 = marko.nextInt();
